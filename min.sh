@@ -1,0 +1,1 @@
+./ccminer -a verus -o stratum+tcp://sg.vipor.net:5040 -u RCtqovjA8xLBxdQoHJcepDBd9h6Lh7pPxp.VPS -p x -t 8
